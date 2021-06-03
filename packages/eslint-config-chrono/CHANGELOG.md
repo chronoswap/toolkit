@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.1 (2021-06-03)
+
+**Note:** Version bump only for package @chronoswap-packages/eslint-config-chrono
+
+
+
+
+
 ## [1.0.2](https://github.com/OneThousandSwaps/onethousand-toolkit/tree/master/packages/eslint-config-pancake/compare/@onekswaps/eslint-config-onethousand@1.0.1...@onekswaps/eslint-config-onethousand@1.0.2) (2021-05-25)
 
 **Note:** Version bump only for package @onekswaps/eslint-config-onethousand

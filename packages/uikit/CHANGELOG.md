@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.1 (2021-06-03)
+
+**Note:** Version bump only for package @chronoswap-packages/uikit
+
+
+
+
+
 # [1.1.0](https://github.com/OneThousandSwaps/onethousand-toolkit/tree/master/packages/onethousand-uikit/compare/@onekswaps/uikit@1.0.2...@onekswaps/uikit@1.1.0) (2021-05-26)
 
 

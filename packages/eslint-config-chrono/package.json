@@ -1,6 +1,6 @@
 {
   "name": "@chronoswap-packages/eslint-config-chrono",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint config for Chronoswap",
   "main": "lib/index.js",
   "files": [
