@@ -1,6 +1,6 @@
 {
   "name": "@chronoswap-packages/uikit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Set of UI components for Chronoswap projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -54,5 +54,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "891ae1895b56f052b4e5041b71a5e45bb4ec630a"
+  "gitHead": "24548324f964f6ec67c261a3a31358303a72342a"
 }
