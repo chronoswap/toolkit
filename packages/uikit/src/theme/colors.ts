@@ -2,12 +2,12 @@ import { Colors } from "./types";
 
 export const baseColors = {
   failure: "#ED4B9E",
-  primary: "#BBFF1A",
-  primaryBright: "#D4FF70",
-  primaryDark: "#567903",
-  secondary: "#FF1A54",
-  success: "#31D0AA",
-  warning: "#bdff31",
+  primary: "#C900FF",
+  primaryBright: "#FF63F8",
+  primaryDark: "#64007E",
+  secondary: "#FFDB00",
+  success: "#A7F438",
+  warning: "#ff351f",
 };
 
 export const additionalColors = {
@@ -18,17 +18,17 @@ export const additionalColors = {
 export const lightColors: Colors = {
   ...baseColors,
   ...additionalColors,
-  background: "#f6fde7",
-  backgroundDisabled: "#8d8d8d",
+  background: "linear-gradient(121deg, #fff0fe 0%, #f7d5ff 100%)",
+  backgroundDisabled: "#9e84a4",
   backgroundAlt: "#FFFFFF",
-  cardBorder: "#E9FFB5",
+  cardBorder: "#d2b4d9",
   contrast: "#3a012d",
   dropdown: "#F6F6F6",
   dropdownDeep: "#EEEEEE",
   invertedContrast: "#FFFFFF",
-  input: "#eef2e2",
-  inputSecondary: "#d7e1b9",
-  tertiary: "#CA23FF",
+  input: "#f2f0e2",
+  inputSecondary: "#e1dbb9",
+  tertiary: "#C0FF1A",
   text: "#5D0479",
   textDisabled: "#7f7483",
   textSubtle: "#a680b4",
