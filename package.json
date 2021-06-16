@@ -2,6 +2,7 @@
   "name": "toolkit",
   "version": "1.0.0",
   "description": "Chronoswap frontend packages",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
