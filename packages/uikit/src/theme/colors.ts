@@ -18,7 +18,7 @@ export const additionalColors = {
 export const lightColors: Colors = {
   ...baseColors,
   ...additionalColors,
-  background: "linear-gradient(121deg, rgba(170,0,255,0.3) 0%, rgba(66,0,255,0.3) 100%)",
+  background: "rgba(44,0,255,0.05)",
   backgroundDisabled: "linear-gradient(121deg, rgba(205,177,219,0.6) 0%, rgba(157,138,209,0.6) 100%);",
   backgroundAlt: "#FFFFFF",
   cardBorder: "#dfd0ec",
