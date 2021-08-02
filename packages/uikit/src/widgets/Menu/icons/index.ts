@@ -12,6 +12,7 @@ export { default as MoreIcon } from "./More";
 export { default as NftIcon } from "./Nft";
 export { default as PoolIcon } from "./Pool";
 export { default as PredictionsIcon } from "./Predictions";
+export { default as StakeIcon } from "./Stake";
 export { default as SunIcon } from "./Sun";
 export { default as TeamBattleIcon } from "./TeamBattle";
 export { default as TelegramIcon } from "./Telegram";

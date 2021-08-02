@@ -9,7 +9,7 @@ interface LogoProps extends SvgProps {
 const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
   const textColor = isDark ? "#FFFFFF" : "#000000";
   return (
-    <Svg viewBox="0 0 32 26" {...props}>
+    <Svg viewBox="0 0 160 26" {...props}>
       <text transform="matrix(1 0 0 1 164.0723 113.2856)" fill={textColor} font-family="'Cano'" font-size="87.6291">ChronoSwap</text>
     	<circle fill="#FEE09B" stroke="#400066" stroke-width="0.75" stroke-miterlimit="10" cx="71.328" cy="110.018" r="2.971"/>
     	<path fill="#AA00FF" d="M99.041,151.673c7.684-11.098,13.122-24.605,15.771-39.212l0.112-0.617l-0.626,0.028
