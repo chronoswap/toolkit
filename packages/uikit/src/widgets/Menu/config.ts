@@ -7,11 +7,11 @@ export const status = {
   },
   SOON: <LinkStatus>{
     text: "SOON",
-    color: "warning",
+    color: "primary",
   },
   NEW: <LinkStatus>{
     text: "NEW",
-    color: "success",
+    color: "binance",
   },
 };
 
