@@ -146,55 +146,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Español",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/chronoswapOfficial",
-      },
-      {
-        label: "Whale Alert",
-        href: "https://t.me/chronoswapOfficial",
+        href: "https://t.me/chronoswap",
       },
     ],
   },
