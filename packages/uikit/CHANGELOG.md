@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.24](https://github.com/chronoswap/toolkit/tree/master/packages/uikit/compare/@chronoswap-packages/uikit@1.0.23...@chronoswap-packages/uikit@1.0.24) (2021-10-19)
+
+**Note:** Version bump only for package @chronoswap-packages/uikit
+
+
+
+
+
 ## [1.0.23](https://github.com/chronoswap/toolkit/tree/master/packages/uikit/compare/@chronoswap-packages/uikit@1.0.22...@chronoswap-packages/uikit@1.0.23) (2021-10-19)
 
 **Note:** Version bump only for package @chronoswap-packages/uikit
