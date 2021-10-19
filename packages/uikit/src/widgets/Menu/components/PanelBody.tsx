@@ -21,7 +21,7 @@ const Container = styled.div`
   overflow-x: hidden;
   height: 100%;
 `;
-e
+
 const PanelBody: React.FC<Props> = ({ isPushed, pushNav, isMobile, links }) => {
   const location = useLocation();
 
